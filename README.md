@@ -17,3 +17,6 @@ This Repository contains the data source and the tableau workbook used to create
 - The orginal dataset consisted of 27 fields out of which only 14 of them are utilized for this use case
 - The visual representation of the Fatal severity for the year 2022 is displayed below. The comparison is drawn between the year 2022 and 2021.
 
+<h3>Snapshots</h3>
+
+![image](https://github.com/aayushdewangan11/AcciVisualize-Road-Accident-Insights-/assets/79148304/228cdf65-6f91-4d49-ba94-84ecc68947c4)
