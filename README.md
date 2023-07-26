@@ -1,8 +1,7 @@
-# Road Accidents Tableau Dashboard
+# AcciVisualize
 
 This Repository contains the data source and the tableau workbook used to create the interactive dashboard.
 
-Link to the dashboard → [Tableau Dashboard](https://public.tableau.com/app/profile/sakshi.srivastava6044/viz/RoadAccidents_Dashboard/RoadAccident_Dashboard)
 
 #### About the Dataset
 1) This dataset is specifically of UK region obatined from Kaggle 
@@ -18,4 +17,3 @@ Link to the dashboard → [Tableau Dashboard](https://public.tableau.com/app/pro
 - The orginal dataset consisted of 27 fields out of which only 14 of them are utilized for this use case
 - The visual representation of the Fatal severity for the year 2022 is displayed below. The comparison is drawn between the year 2022 and 2021.
 
-![Screenshot](https://user-images.githubusercontent.com/123297799/227778082-3daed5c7-818c-456b-a834-b6cc2f5ef6fc.png)
